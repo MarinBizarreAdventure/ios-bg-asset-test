@@ -1,0 +1,19 @@
+{
+    "assetPackID": "Prefetch",
+    "downloadPolicy": {
+        "prefetch": {
+            "installationEventTypes": [
+                "firstInstallation",
+                "subsequentUpdate"
+            ]
+        }
+    },
+    "fileSelectors": [
+        {
+            "file": "AssetPacks/Prefetch/image2.jpg"
+        }
+    ],
+    "platforms": [
+        "iOS"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "assetPackID": "OnDemand",
+    "downloadPolicy": {
+        "onDemand": {}
+    },
+    "fileSelectors": [
+        {
+            "file": "AssetPacks/OnDemand/image3.jpg"
+        }
+    ],
+    "platforms": [
+        "iOS"
+    ]
+}

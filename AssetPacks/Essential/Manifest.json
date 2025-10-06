@@ -1,0 +1,19 @@
+{
+    "assetPackID": "Essential",
+    "downloadPolicy": {
+        "essential": {
+            "installationEventTypes": [
+                "firstInstallation",
+                "subsequentUpdate"
+            ]
+        }
+    },
+    "fileSelectors": [
+        {
+            "file": "AssetPacks/Essential/image1.jpg"
+        }
+    ],
+    "platforms": [
+        "iOS"
+    ]
+}
